@@ -108,6 +108,7 @@ Objetivo. Aplicar conocimientos teóricos y prácticos aprendidos durante mi for
 Liderar, diseñar y desarrollar con un grupo de trabajo una App E-commerce de venta de celulares "New Phone" que incluía: búsqueda, filtros, ordenamientos, logueo, creación de usuario, manejo de roles, baneo de usuario con Auht0, logueo con Google, preguntas y respuestas, reseñas de los productos, pagos online con stripe.  
   
 
+<img src="https://res.cloudinary.com/dmmvgeakg/image/upload/v1665610519/pghenry/gnc60o7uq5bma40nyhul.jpg" align="left" height="200" width="200" />  
 <img src="https://res.cloudinary.com/dmmvgeakg/image/upload/v1665608099/pghenry/kubb9slmnu1ur04e69v1.png" align="left" height="200" width="200" />  
   
 
