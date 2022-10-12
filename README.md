@@ -15,6 +15,23 @@ Objetivo. Aplicar conocimientos teóricos y prácticos aprendidos durante mi for
 "Creo que el éxito profesional se logra día tras día y parte de ello es formar parte de un equipo de personas exitosas, así que para lograr el éxito en mi carrera profesional me gustaría contar con el apoyo de los mejores"   
   
 
+
+
+### Contact me  
+<a href="https://github.com/ayrtonacevedo" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ayrton-nahir-arroyo-acevedo-b795b0212/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/ayrtonacevedo" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=ayrtonacevedo&&style=flat-square)  
+  
+
 <br/>  
 
 
@@ -117,21 +134,12 @@ Liderar, diseñar y desarrollar con un grupo de trabajo una App E-commerce de ve
 
 <br/>  
 
-
-![Profile views counter](https://komarev.com/ghpvc/?username=ayrtonacevedo&&style=flat-square)  
   
 
-<a href="https://github.com/ayrtonacevedo" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ayrton-nahir-arroyo-acevedo-b795b0212/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/ayrtonacevedo" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
 <br/>  
+
+  
+
 <br/>  
 
 
